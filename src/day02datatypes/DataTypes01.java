@@ -1,4 +1,4 @@
-package day02dataTypes;
+package day02datatypes;
 
 public class DataTypes01 {
         /*

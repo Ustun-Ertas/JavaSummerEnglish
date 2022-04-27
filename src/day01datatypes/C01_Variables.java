@@ -1,4 +1,4 @@
-package day01dataTypes;
+package day01datatypes;
 
 public class C01_Variables {
 
