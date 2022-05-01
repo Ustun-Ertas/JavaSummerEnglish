@@ -7,7 +7,7 @@ public class IfStatment03 {
 
         //Ask the user to enter a day name then
         //print "Weekday" for Monday,Tuesday,Wednesday,Thursday,Friday
-        //print "Weekend Day" for Saturday and Sunday
+        //print "Weekend Day" for Saturday and Sunday.
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the day name : ");
